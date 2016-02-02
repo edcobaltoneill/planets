@@ -7,5 +7,10 @@ Hey beach is nightswing
 
 The pumpkins smell
 
+<<<<<<< HEAD
 
 kapooow kapooo conflict!
+=======
+Jacek woz here
+
+>>>>>>> a31715e99b889ff2809ae6c96b4d87853e2d6839
